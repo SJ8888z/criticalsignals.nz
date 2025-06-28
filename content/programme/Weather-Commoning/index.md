@@ -2,7 +2,7 @@
 title: "Weather Commoning: Critical Signals from the Japanese Government's Moonshot Goal 8 Project"
 hosts:
   - "Chris Berthelsen"
-date: 2025-08-05
+date: 2025-08-06
 start_time: 17.00
 end_time: 19.00
 categories:
